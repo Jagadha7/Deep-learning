@@ -36,4 +36,4 @@ plt.show()
 
 Output:
 
-<img width="587" height="526" alt="image" src="https://github.com/user-attachments/assets/35883b9d-6dc1-40d8-a2ae-dec5b11f276c" />
+<img width="587" height="526" alt="Screenshot 2025-08-13 100654" src="https://github.com/user-attachments/assets/89cb8f38-04c6-432d-be31-401ef32bfc61" />
